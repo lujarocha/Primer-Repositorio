@@ -4,7 +4,11 @@ import turtle
 x = 123
 if(x == 123):
     print("Aprendimos a usar Github")
-
+"""La estradas x y y corresponde al eje x y y que van a servir para comenzar
+a dibujar la caluladora"""
+turtle.speed(0)
+turtle.screensize(500, 700)
+turtle.bgcolor("#008080")
 turtle.hideturtle()
 turtle.speed(0)
 turtle.penup()
