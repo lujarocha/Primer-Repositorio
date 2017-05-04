@@ -1,6 +1,9 @@
 import turtle
 #Hola
 #Probando123
+x = 123
+if(x == 123):
+    print("Aprendimos a usar Github")
 """La estradas x y y corresponde al eje x y y que van a servir para comenzar
 a dibujar la caluladora"""
 turtle.speed(0)
